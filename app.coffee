@@ -22,7 +22,7 @@ scroll.scrollHorizontal = false
 scroll.frame = Screen.frame
 scroll.contentInset = top: 1230, left: 25
 
-#sketch에서 숨겨놨던 navBar 작은 타이틀 켜고 다시 숨기기
+#sketch에서 숨겨놨던 navBar 작은 타이틀 켜고 다시 숨기기.
 sketch.headline_small.visible = true
 sketch.headline_small.opacity = 0
 
