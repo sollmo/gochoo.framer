@@ -9,10 +9,7 @@ Framer.Info =
 	description: "꿀연휴 예측하여, 휴가계획 미리미리 세워보자."
 
 
-# Import file "gochoo" (sizes and positions are scaled 1:2)
-sketch = Framer.Importer.load("imported/gochoo@2x")
-
-Framer.Device.background.backgroundColor = "D13500"
+Framer.Device.background.backgroundColor = "333333"
 
 # Import file "gochoo"
 sketch = Framer.Importer.load("imported/gochoo@1x")
